@@ -32,3 +32,5 @@ BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
 !User
 User/*
 !User/Mods
+user/mods/DrakiaXYZ-LiveFleaPrices/config/config.json
+user/mods/DrakiaXYZ-LiveFleaPrices/config/prices.json
